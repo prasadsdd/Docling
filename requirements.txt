@@ -1,0 +1,15 @@
+docling>=2.5.0
+langchain-docling
+langchain-core
+langchain-text-splitters
+python-dotenv
+onnxruntime           # Fixes the "rapidocr" warning
+huggingface_hub[hf_xet] # Fixes the "xet storage" warning
+langchain-aws
+boto3
+langchain-pinecone
+pinecone-client
+pinecone-text
+ragas
+datasets
+pandas

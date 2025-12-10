@@ -13,3 +13,4 @@ pinecone-text
 ragas
 datasets
 pandas
+langsmith

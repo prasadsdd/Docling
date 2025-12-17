@@ -14,3 +14,8 @@ ragas
 datasets
 pandas
 langsmith
+
+langchain-groq
+groq
+langchain-google-genai
+faiss-cpu
